@@ -3,7 +3,6 @@ layout: post
 title: How to create your own distributed Search on Azure (Elastic Search + Logstash)?
 description: >
   Elastic Search in Azure
-image: /assets/img/mostap.png
 canonical_url: https://pages-themes.github.io/architect/
 ---
 ## Create Elastic Search cluster and Kibana using Azure UI
@@ -35,8 +34,8 @@ When Elastic Search successfully deployed on Azure you will see something like t
 To see deployment status click on the bell – upper right corner. 
 ![My helpful screenshot]({{ "/assets/img/ElasticSearchonAzure/7.png"}}) 
 
-8. Find Kibana VM. Go to an VM overview. Copy DNS. On the same virtual machine. Check networking tab. You can see here what ports are open. Add Kibana port - 5601 to your ip in the browser and  sign in to Kibana.
-During provisioning elastic search cluster you added 2 passwords. To login and to see Kibana dashboard you can use you can use username ‘Elastic’ to your password  to login as a superuser or username 'kibana' and your Kibana password.
+8. Find Kibana VM. Go to an VM overview. Copy DNS, after - check networking tab. You can see here what ports are open. Add Kibana port - 5601 to your ip in the browser and sign in to Kibana.
+During provisioning elastic search cluster you added 2 passwords. To login and to see Kibana dashboard you can use you can use username ‘Elastic’ and your password to login as a superuser, or username 'kibana' and your Kibana password.
 
 
 
