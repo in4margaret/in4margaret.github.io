@@ -56,12 +56,12 @@ Click on connect and ssh and copy command to you bash window, after enter your p
 ![My helpful screenshot]({{ "/assets/img/ElasticSearchonAzure/15.png"}}) 
 15. Run script below to create a new instalation file.
 
-```js
+```bash
 sudo nano ./install.sh
 
 ```
 Paste those lines to your file 
-```js
+```bash
 # installing java 8 (9, 10, ... not supported)
 sudo apt install -y openjdk-8-jdk
 # installing logstash
@@ -80,7 +80,7 @@ sudo systemctl start logstash.service
 ```
 Press 'CTRL+X' to exit and 'Y' It will save your changes automagically. 
 Let's run that file
-```js
+```bash
 sh ./install.sh
 ```
 It will take a while to install all packages. 
@@ -92,22 +92,22 @@ https://linuxconfig.org/how-to-install-java-on-ubuntu-18-04-bionic-beaver-linux
 
 16. Let's create a simple data pipeline.
 Check what is your current directory 
-```js
+```bash
 pwd
 ```
 You should be here
-```js
+```bash
 /home/username
 ```
 Let's hange it 
-```js
+```bash
 cd /usr/share/logstash
 ```
 sudo bin/logstash -e ‘input {stdin {} } output {stdout { } }’
 (if you forget to write sudo you may receive an error that logshash data must be a writable directory)
 Using this command you can write something in console and receive the same message to console. 
 Maybe you will need to restart your logstash.servise like 
-```js
+```bash
 sudo systemctl stop logstash.service
 sudo systemctl start logstash.service
 ```
