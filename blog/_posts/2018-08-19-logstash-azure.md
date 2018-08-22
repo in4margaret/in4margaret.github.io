@@ -13,7 +13,7 @@ canonical_url: https://pages-themes.github.io/architect/
 2. Add user name and credentials. 
 ![My helpful screenshot]({{ "/assets/img/ElasticSearchonAzure/1.png"}})
 
-3. Creare your VNET and subnet. If you want to add some web api after you will need to add your web app to the same directory. 
+3. Creare your Vnet and subnet. If you want to add some web api after, you will need to add your web app to the same Vnet. 
 ![My helpful screenshot]({{ "/assets/img/ElasticSearchonAzure/2.png"}}) 
 
 4. Create 1 client node 
