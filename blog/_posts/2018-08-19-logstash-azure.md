@@ -99,7 +99,7 @@ You should be here
 ```bash
 /home/username
 ```
-Let's hange it 
+Let's change it 
 ```bash
 cd /usr/share/logstash
 ```
