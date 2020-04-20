@@ -26,19 +26,18 @@ order: 4
 
 ## Conferences
 
-- [2019 DataScienceNigeria Artificial Intelligence Bootcamp](https://steventure.hashnode.dev/datasciencenigeria-artificial-intelligence-bootcamp-2019-reviews-and-reflections-ck3wlmrt200be1rs1u0wt5m55)
+- [2019 Global AI Bootcamp Greater Toronto Area](https://www.evensi.ca/global-bootcamp-greater-toronto-area-2019-microsoft-canada-mississauga-hq-meadowvale-boulevard-1950/360802635)
+- [2019 Data Science Nigeria: Use Cases and practical examples of AI solution](https://www.datasciencenigeria.org/aiexecutive-2/)
+- [2019 Data Science Nigeria: Artificial Intelligence Bootcamp](https://steventure.hashnode.dev/datasciencenigeria-artificial-intelligence-bootcamp-2019-reviews-and-reflections-ck3wlmrt200be1rs1u0wt5m55)
 - [2018 Kyiv Linux Root Conference: Kubernetes Workshop. Infrastructure as Code](https://linux.globallogic.com/#!/tproduct/46502567-1522948325969)
 - [2018 DigiGirlz](https://www.linkedin.com/posts/margaryta-ostapchuk-09082a73_digigirlz-microsoft-msftadvocate-activity-6530209784015265792-M5Tc)
 - [2017 Toronto FITCH 2017](https://fitc.ca/presentation/developing-immersive-experiences-windows-mixed-reality/)
 - [2017 Mission Mars (Microsoft Bot Framework workshop): Montreal](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x651720abcd&)
 - [2017 Mission Mars (Microsoft Bot Framework workshop): Toronto](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x651720abcd&)
 - [2016 Lviv IT Arena: Big Data in Cloud - Seize your Insight Like a Golden Snitch](https://itarena.ua/presentations/)
-- [2016 TechDays Vilnius: BigData – Analysis of
-Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
-- [2016 TechDays Riga: BigData – Analysis of
-Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
-- [2016 TechDays Tallinn: BigData – Analysis of
-Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
+- [2016 TechDays Vilnius: BigData – Analysis of Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
+- [2016 TechDays Riga: BigData – Analysis of Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
+- [2016 TechDays Tallinn: BigData – Analysis of Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-agenda-LAT.pdf)
 - [2016 Big Data in the Cloud](https://dou.ua/calendar/11325/)
 - [2016, Kyiv Falling Walls Lab, Big Data in the cloud](https://www.facebook.com/FallingWallsLabKyiv/photos/a.1205056389537048/1242254365817250/?type=1&theater)
 - [Girlz in ICT](https://global.gurt.org.ua/?p=173397485)
@@ -72,11 +71,13 @@ Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-
 - [2015 Vinnitsa Hackathon](https://vn.20minut.ua/IT-novyny/hakaton-v-vinnitse-aytishniki-pridumali-kak-pobedit-ocheredi-10465746.html)
 
 ## Webinars/podcasts
+
 - [2020 Solocoder](https://solocoder.com/podcast/margarita-ostapchuk-from-ukraine-to-canada-ai)
 - [2018 Containers & Container Services](https://info.microsoft.com/CA-SCRTY-WBNR-FY18-01Jan-18-ContainersContainerServices-MCW0002107_02OnDemandRegistration-ForminBody.html)
 - [2018 Making AI Easier with Azure Cognitive Services](https://info.microsoft.com/CA-ISVAzure-WBNR-FY18-11Nov-16-MakingAIEasierwithAzureCognitiveServices-MCW0001751_02OnDemandRegistration-ForminBody.html)
 
-## Apps/ tools 
+## Apps/ tools
+
 - [VS Code  extension compareit](https://marketplace.visualstudio.com/items?itemName=in4margaret.compareit)
 - [2018: Shipping bot, SMB hackathon winner](https://www.businesswire.com/news/home/20180117005101/en/Pitney-Bowes-Announces-Global-Hackathon-Winners)
 
