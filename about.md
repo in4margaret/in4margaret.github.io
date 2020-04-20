@@ -42,7 +42,7 @@ Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-
 - [2016 Big Data in the Cloud](https://dou.ua/calendar/11325/)
 - [2016, Kyiv Falling Walls Lab, Big Data in the cloud](https://www.facebook.com/FallingWallsLabKyiv/photos/a.1205056389537048/1242254365817250/?type=1&theater)
 - [Girlz in ICT](https://global.gurt.org.ua/?p=173397485)
-- [2015 Odessa JS ](http://odessajs.org/2015/index.html)
+- [2015 Odessa JS](http://odessajs.org/2015/index.html)
 
 ## User Groups
 
@@ -69,6 +69,7 @@ Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-
 - [2017 Hack the Valley mentor](https://www.facebook.com/events/834946219980301)
 - [2016 Garage48 mentor](http://garage48.org/events/garage48-iot-and-machine-learning)
 - [2015 Odessa IoT hackathon mentor](https://dou.ua/calendar/8698/)
+- [2015 Vinnitsa Hackathon](https://vn.20minut.ua/IT-novyny/hakaton-v-vinnitse-aytishniki-pridumali-kak-pobedit-ocheredi-10465746.html)
 
 ## Webinars/podcasts
 - [2020 Solocoder](https://solocoder.com/podcast/margarita-ostapchuk-from-ukraine-to-canada-ai)
@@ -82,20 +83,25 @@ Social Media trends](http://gregbin.com/wp-content/uploads/2016/03/TechDay-2016-
 ## Articles/media
 
 - [2018 Women Who Code TO Meetup - Create Your Own Social Media Analyzer Using Azure AI and Serverless Computing](https://thisisjanelles.github.io/2018-05-29-women-who-code-to-create-your-own-social-media-analyzer-using-azure-ai-and-serverless-computing/)
--[2017 Girls in STEM](http://studiarium.net/page/580-kilkist-it-specialistiv-sered-zhinok-v-ukrayini-za-ostannij-rik-zrosla-do-16)
+- [2017 Girls in STEM](http://studiarium.net/page/580-kilkist-it-specialistiv-sered-zhinok-v-ukrayini-za-ostannij-rik-zrosla-do-16)
 - [2016 Analysis of data](https://kpi.ua/en/16-09-11)
 - [2016 Microsoft Azure for students](https://nubip.edu.ua/en/node/23537)
 - [2015 .NET Framework day](http://ua.trud.com/blog/2016/01/13/net-framework-day-2015-2/)
 - [2015 YouthSpark](https://gurt.org.ua/news/recent/26904/)
 - [2015 Discussion with startups](http://report.if.ua/lyudy/my-pidtrymuyemo-startapy-na-vsih-etapah-frankivcyam-rozpovily-pro-novi-mozhlyvosti-vid-microsoft-ukrayina-foto/)
 - [Grand-2015 Kyiv: Business and IT](https://teleinfo.ru/seminar/344.htm)
+- [AI&BigData Lab](https://delo.ua/business/aibigdata-lab-295524/)
 
 ## Video
 
 - [FITCH](https://www.youtube.com/watch?v=wgcaJPeS5vM)
 - [#makewhatsnext](https://www.facebook.com/MicrosoftUkraine/videos/1347338768647270/)
+- [2015 Algorithms in Azure ML](https://www.youtube.com/watch?v=aWj6Vr-fY1E)
+- [2015 Windows 10 Apps development](https://www.youtube.com/watch?v=cXDwlsNI_9U)
+- [2014 SE Windows Phone Apps development using JS](https://www.youtube.com/watch?v=0DmICbCOiLk) 
 
 ## Certifications
+
 - [Microsoft certifications](https://www.youracclaim.com/users/margaryta-ostapchuk/badges)
 
 ## Slides/workshop assets
